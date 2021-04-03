@@ -1,0 +1,1 @@
+This is fat-koala's first git project!
